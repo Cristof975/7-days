@@ -1,0 +1,11 @@
+MinimapEnabled=True
+MinimapPositionX=-728
+MinimapPositionY=333
+MinimapScale=75
+MinimapCompass=True
+MinimapNavObjects=True
+NavObjectsScale=25
+MinimapZombies=True
+ShowDefaultCompass=True
+MinimapHotkey=-1
+LockDirection=False

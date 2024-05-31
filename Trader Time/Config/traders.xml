@@ -1,0 +1,20 @@
+<xooGHOSToox>
+		<removeattribute xpath="/traders/trader_info[@id='1']/@open_time" /> <!--Trader Joel-->
+		<removeattribute xpath="/traders/trader_info[@id='1']/@close_time" /> <!--Trader Joel-->
+
+		<removeattribute xpath="/traders/trader_info[@id='2']/@open_time" /> <!--Trader Jen-->
+		<removeattribute xpath="/traders/trader_info[@id='2']/@close_time" /> <!--Trader Jen-->
+	
+		<removeattribute xpath="/traders/trader_info[@id='6']/@open_time" /> <!--Trader Bob-->
+		<removeattribute xpath="/traders/trader_info[@id='6']/@close_time" /> <!--Trader Bob-->
+	
+		<removeattribute xpath="/traders/trader_info[@id='7']/@open_time" /> <!--Trader Hugh-->
+		<removeattribute xpath="/traders/trader_info[@id='7']/@close_time" /> <!--Trader Hugh-->
+	
+		<removeattribute xpath="/traders/trader_info[@id='8']/@open_time" /> <!--Trader Rekt-->
+		<removeattribute xpath="/traders/trader_info[@id='8']/@close_time" /> <!--Trader Rekt-->			
+</xooGHOSToox>
+
+
+
+

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+	<Name value="24HrTrader" />
+	<DisplayName value="24 Hour Trader" />
+	<Version value="21.1" />
+	<Description value="This mod allows the trader to be open 24 hours." />
+	<Author value="GHOST" />
+	<Website value="www.twitch.tv/xooghostoox" />
+</xml>
